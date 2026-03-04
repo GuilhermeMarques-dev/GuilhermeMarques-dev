@@ -6,14 +6,14 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-
-- 🔭 I’m currently working on Folzeck Group!
-- 👩‍💻 I’m currently learning python
-- 📫 How to reach me: 
+- 💼 Currently working at Folzeck Group
+- 👨‍💻 Software Engineering student
+- 🐍 Learning Python & Automation
+- 📫 How to reach me:
 
 <div> 
   <a href="https://instagram.com/gui_marquez" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="[Meu LinkedIn](https://www.linkedin.com/in/guilherme-rodrigues-marques-969aa1246)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/guilherme-rodrigues-marques-969aa1246" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
 
