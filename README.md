@@ -7,7 +7,7 @@
 </div>
 
 
-- 🔭 I’m currently working on folzeck Group!
+- 🔭 I’m currently working on Folzeck Group!
 - 👩‍💻 I’m currently learning python
 - 📫 How to reach me: 
 
